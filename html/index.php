@@ -109,8 +109,7 @@
 						<h4>Smart, Light and Adaptive</h4>
 					<p>Imagine that a guest is about to depart from your house. They stop to check their appearance in an antique looking mirror mounted near the front door. Suddenly, they appear to see additional information such as Date and time,weather,news etc besides their reflection,how cool is that?.</p>
 					<p>The idea is that we first mount a flat-screen liquid crystal display (LCD) or LED .Next, we acquire a piece of special glass that acts as a two-way mirror. If we place this special glass over a black surface it will appear to be a normal mirror; if there's a light source behind the glass, however, then that light will pass through. So the idea is to take the glass, mount it in an antique picture frame, and hang it on the wall covering our LCD/LED screen.We will be Attaching a credit sized single board computer probably raspberry pi 3 with the lcd/led screen,and running our smart mirror application on it.Our team will be using a Usb microphone with the Raspberry pi-3 to interact with it.
-Smart mirror will be the future of how we customize ourselves.,like if ever i wanted to buy myself new clothes in a mall instead of trying it on myself i can virtually see it on smart mirror,here the smart mirror uses Augmented reality technology to virtually show me how will i look on that dress.
-Smart mirrors will have wide area of applications in shopping malls,hospitals,schools etc.</p>
+Smart mirror will be the future of how we customize ourselves. Like if we wanted to buy new clothes in a mall instead of trying it on yourself we can virtually see it on smart mirror. Here the smart mirror uses Augmented reality technology to virtually show how will you look in that dress. Smart mirrors will have wide area of applications in shopping malls, hospitals, schools etc.</p>
 
 
 					</div>
@@ -125,36 +124,16 @@ Smart mirrors will have wide area of applications in shopping malls,hospitals,sc
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h2 class="wow bounce">Meet the team</h2>
+						<h2 class="wow bounce">Meet the Author</h2>
 					</div>
 					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
 						<img src="images/team1.jpg" class="img-responsive" alt="team img">
-						<h4>Member 1</h4>
+						
 						<h3>Anand</h3>
-						<p>Simplicity of life is the key</p>
+						
 						 
 					</div>
-					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.6s">
-						<img src="images/dur.JPG" class="img-responsive" alt="team img">
-						<h4>Member 2</h4>
-						<h3>Durgesh</h3>
-						<p>An elegant device to make lives easier</p>
-						 
-					</div>
-					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.9s">
-						<img src="images/tej.JPG" class="img-responsive" alt="team img">
-						<h4>Member 3</h4>
-						<h3>Tejashri</h3>
-						<p>information access has never been easier</p>
-						 
-					</div>
-					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.9s">
-						<img src="images/sum.JPG" class="img-responsive" alt="team img">
-						<h4>Member 4</h4>
-						<h3>Sumati</h3>
-						<p>Building smart IOT devices is the future of technology</p>
-						 
-					</div>
+					
 
 
 
