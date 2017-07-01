@@ -1,0 +1,1 @@
+pocketsphinx_continuous -hmm /home/pi/Desktop/pocket_sphinx_with_command/sphinx_data/hmm -lm  /home/pi/Desktop/pocket_sphinx_with_command/sphinx_data/language-model.lm.bin -dict /home/pi/Desktop/pocket_sphinx_with_command/sphinx_data/pronounciation-dictionary.dict -samprate 16000/8000/48000 -inmic yes 2>./unwanted-stuff.log | tee > ./words.txt 

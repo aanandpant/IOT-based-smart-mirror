@@ -1,0 +1,49 @@
+Language model created by QuickLM on Fri Jun  9 10:17:10 EDT 2017
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 5 sentences and 7 words
+
+\data\
+ngram 1=7
+ngram 2=10
+ngram 3=9
+
+\1-grams:
+-0.8808 </s> -0.3010
+-0.8808 <s> -0.2398
+-1.5798 ALEXA -0.2398
+-1.2788 FAN -0.2527
+-1.2788 LIGHTS -0.2527
+-1.2788 OFF -0.2398
+-1.2788 ON -0.2398
+
+\2-grams:
+-1.0000 <s> ALEXA 0.0000
+-0.6990 <s> FAN 0.0000
+-0.6990 <s> LIGHTS 0.0000
+-0.3010 ALEXA </s> -0.3010
+-0.6021 FAN OFF 0.0000
+-0.6021 FAN ON 0.0000
+-0.6021 LIGHTS OFF 0.0000
+-0.6021 LIGHTS ON 0.0000
+-0.3010 OFF </s> -0.3010
+-0.3010 ON </s> -0.3010
+
+\3-grams:
+-0.3010 <s> ALEXA </s>
+-0.6021 <s> FAN OFF
+-0.6021 <s> FAN ON
+-0.6021 <s> LIGHTS OFF
+-0.6021 <s> LIGHTS ON
+-0.3010 FAN OFF </s>
+-0.3010 FAN ON </s>
+-0.3010 LIGHTS OFF </s>
+-0.3010 LIGHTS ON </s>
+
+\end\
