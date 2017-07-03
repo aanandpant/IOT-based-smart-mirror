@@ -6,7 +6,10 @@ Smart mirror is a device which shows you various information on the go like news
 
 ![alt text](https://github.com/aanandpant/smart-mirror-my-final-year-computer-engineering-project/blob/master/mirror.png)
 
+**See the mirror working (click on the picture below)**
 
+
+[![IMAGE ALT smart mirror](https://img.youtube.com/vi/jIXr54udIIE/0.jpg)](https://www.youtube.com/watch?v=jIXr54udIIE)
 
 
 **features:**
@@ -39,6 +42,6 @@ Smart mirror is a device which shows you various information on the go like news
 **Software/Programming languages used :**
 - Raspbian jessie with pixel os
 - NodeJs (main smart mirror native app)
-- Pocket sphinx library for voice recognition in python programming language
+- Pocket sphinx library for voice recognition in python programming language.
 - Html, css, javascript, php to control electrical appliances through a web portal.
 - Apache web server
